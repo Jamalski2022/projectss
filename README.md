@@ -1,5 +1,5 @@
 # projectss
-# Speed project
+# Speed Detector
 
 This Javascript program allows users to calculate the number of demerit points a driver receives depending on their speed.
 
@@ -26,7 +26,7 @@ This Javascript program allows users to calculate salary (PAYE) depending on how
 -git clone https://github.com/Jamalski2022/projectss.git
 -cd speed project
 
-#grade generator
+#Grade generator
 -This Javascript program allows users to input their marks and prints out their grade.
 
 ##What it has to offer
